@@ -1,10 +1,7 @@
 <script setup>
-import Vue from 'vue'
 import { RouterLink, RouterView } from 'vue-router'
-import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap-vue/dist/bootstrap-vue.css'
-
 import Hello from '@/components/HelloWorld.vue'
+
 
 </script>
 
