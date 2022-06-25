@@ -23,6 +23,7 @@ import Hello from '@/components/HelloWorld.vue'
   </header>
 
   <RouterView />
+
 </template>
 <style>
 @import '@/assets/base.css';
