@@ -12,10 +12,10 @@ import Hello from '@/components/HelloWorld.vue'
     <img alt="Vue logo" class="logo" src="http://pngimg.com/uploads/cv/cv_PNG1.png" width="125" height="125" />
 
     <div class="wrapper">
-      <Hello msg="Bienvenido" />
+      <Hello msg="Juan Lluvia S.B." />
 
       <nav>
-        <RouterLink to="/">Home</RouterLink>
+        <RouterLink to="/">Inicio</RouterLink>
         <RouterLink to="/about">About</RouterLink>
         <RouterLink to="/curro">Currículo</RouterLink>
       </nav>

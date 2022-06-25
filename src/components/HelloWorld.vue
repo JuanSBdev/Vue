@@ -11,10 +11,13 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      You’ve successfully opened the worst CV project with
-      <a target="_blank" href="https://vitejs.dev/">Vite</a> +
-      <a target="_blank" href="https://vuejs.org/">Vue 3</a>.
+      Desarrollador Front-end Jr.
     </h3>
+    <h4>24 años</h4>
+    <h4>Ingles B1, Aleman A2, Frances A1</h4>
+    
+
+
   </div>
 </template>
 

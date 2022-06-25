@@ -1,5 +1,5 @@
 <template>
-<div class="logos-wraper">
+<div class="logos-wraper ">
   <div class="imagenes-logos">
     <img class="logoa" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="html5 logo">
     <img class="logob " src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="css3 logo">
@@ -16,39 +16,76 @@
 .logos-wraper{
   display: flex;
   flex-flow: row;
-  
+ 
 }
+
 .logoa{
+    opacity: 0.7;
+
   width: 20%;
+}
+.logoa:hover{
+      opacity: 1;
 }
 .logob{
 width: 14%;
+  opacity: .7;
+
+}
+.logob:hover{
+      opacity: 1;
 }
 .logoc{
   width: 18%;
+    opacity: .7;
 
+
+}
+.logoc:hover{
+      opacity: 1;
 }
 .logod{
   width: 20%;
+  opacity: .7;
 
+}
+.logod:hover{
+      opacity: 1;
 }
 .logoe{
   width: 20%;
+  opacity: .7;
 
+}
+.logoe:hover{
+      opacity: 1;
 }
 .logof{
   width: 30%;
   padding: 5%;
+  opacity: .7;
 
+}
+.logof:hover{
+      opacity: 1;
 }
 .logog{
   width: 30%;
   padding: 5%;
+    opacity: .7;
 
+
+}
+.logog:hover{
+      opacity: 1;
 }
 .logoh{
   width: 30%;
   padding: 5%;
+  opacity: .7;
 
+}
+.logoh:hover{
+      opacity: 1;
 }
 </style>
