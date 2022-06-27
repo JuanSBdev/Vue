@@ -50,9 +50,6 @@ h2 {
       transition: all 2s ease;
 
 }
-.the{
-  
 
-}
 
 </style>
