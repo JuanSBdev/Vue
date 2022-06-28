@@ -9,7 +9,7 @@
     <img class="logoe col-3" src="https://i0.wp.com/jrgonzalez.es/wp-content/uploads/2019/01/git-logo.png?resize=228%2C228&ssl=1" alt="git logo">
     <img class="logof col-3" src="https://icdn.enterinit.com/wp-content/uploads/2017/05/26081202/github-logo.png" alt="github logo">
     <img class="logog col-3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="sass logo">
-    <img class="logoh col-3" src=" https://i0.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?ssl=1" alt="sass logo">
+    <img class="logoh col-3" src="https://i0.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?ssl=1" alt="sass logo">
   </div>
   </div>
 </div>

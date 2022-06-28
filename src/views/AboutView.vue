@@ -1,25 +1,23 @@
-
+<script setup>
+import Certificados from "@/components/Certificados.vue";
+</script>
 <template>
-  <div class="about">
+  <div class="about d-flex">
   <p>
   Soy un Desarrollador front-end en busqueda constante de aprendizaje.
     En este momento me encuentro perfeccionando mis conocimientos en el framework de JavaScript VUE.
   En este momento  ACTIVO en la busqueda de un empleo que se adapte para trabajar REMOTO ya sea part o full-time.
   </p>
-  <h1>Cerificados</h1>
-    <div class="certis row">
-      <img class="img1 col-8" src="../img/629bfa10959e350024c1e932 (1).png" alt="">
-      <img class="img2 col-6" src="../img/SARMIENTO BILIKYAN.CE-2022-00429571-UNC-DC_FL (1)_page-0001.jpg" alt="">
-    </div>
-  </div>
+ </div>
 </template>
 
 <style>
   .about {
     min-height: 100vh;
-    display: flex;
     flex-flow: column nowrap;
     align-items: center;
+    justify-content: center;
+    align-content: center;
   }
   .certis{
     display: flex;
@@ -44,6 +42,5 @@
     width: 80%;
     position: initial;
   }
-@import'bootstrap/dist/css/bootstrap.css'
 
 </style>

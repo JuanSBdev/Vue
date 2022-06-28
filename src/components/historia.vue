@@ -1,7 +1,7 @@
 <template>
 <div class="wraper">
-    <h1>
-    Curriculo
-    </h1>
-    </div>
+    <h2>juansb.dev@gmail.com</h2>
+</div>
 </template>
+<style scoped>
+</style>

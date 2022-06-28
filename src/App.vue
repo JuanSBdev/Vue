@@ -17,7 +17,7 @@ import Hello from '@/components/HelloWorld.vue'
       <nav>
         <RouterLink to="/">Inicio</RouterLink>
         <RouterLink to="/about">About</RouterLink>
-        <RouterLink to="/contacto">Contáctame</RouterLink>
+        <RouterLink to="/contacto">Contactar</RouterLink>
       </nav>
     </div>
   </header>
@@ -67,6 +67,10 @@ nav {
 
 nav a.router-link-exact-active {
   color: var(--color-text);
+  text-decoration: none;
+      font-size: 1.2rem;
+
+
 }
 
 nav a.router-link-exact-active:hover {
@@ -77,6 +81,9 @@ nav a {
   display: inline-block;
   padding: 0 1rem;
   border-left: 1px solid var(--color-border);
+    text-decoration: none;
+        font-size: 1.5rem;
+
 }
 
 nav a:first-of-type {
