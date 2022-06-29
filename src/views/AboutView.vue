@@ -43,5 +43,10 @@ import Certificados from "@/components/Certificados.vue";
     width: 80%;
     position: initial;
   }
-
+@media  screen and (max-width: 980px) {
+  .about{
+    justify-content: start;
+    padding-top: 1rem;
+  }
+}
 </style>
