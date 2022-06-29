@@ -18,6 +18,7 @@ import Certificados from "@/components/Certificados.vue";
     align-items: center;
     justify-content: center;
     align-content: center;
+    align-content: center;
   }
   .certis{
     display: flex;
