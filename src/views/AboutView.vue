@@ -1,5 +1,6 @@
 <script setup>
 import Certificados from "@/components/Certificados.vue";
+import DatosAbout from "../components/DatosAbout.vue";
 </script>
 <template>
   <div class="about d-flex">
@@ -10,8 +11,10 @@ import Certificados from "@/components/Certificados.vue";
    En busqueda constante de aprendizaje.
     En este momento me encuentro perfeccionando mis conocimientos en el framework de JavaScript VUE.
     Aspiro a un trabajo el cual me permita el espacio para seguir formando y capacitandome.
+    Disponibilidad: Full Time.
 
   </p>
+  <DatosAbout/>
  </div>
 </template>
 

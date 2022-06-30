@@ -12,7 +12,7 @@ import Hello from '@/components/HelloWorld.vue'
     <img alt="Vue logo" class="logo" src="http://pngimg.com/uploads/cv/cv_PNG1.png" width="125" height="125" />
 
     <div class="wrapper">
-      <Hello msg="Juan Lluvia S.B." />
+      <Hello msg="Juan Lluvia S.B." mail="juansb.dev@gmail.com" />
 
       <nav>
         <RouterLink to="/">Inicio</RouterLink>

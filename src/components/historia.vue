@@ -1,10 +1,15 @@
 <template>
 <div class="wraper d-flex row">
-    <h2 class="col-7">juansb.dev@gmail.com </h2>
-    <h2 class="col-6"><a href="https://www.linkedin.com/in/jlsb/">LinkedIn</a> </h2>
-    <h2 class="col-6"><a href="http://github.com/JuanSBdev">GitHub</a></h2>
-    //agregar los iconos abajo del nombre directamente y hacer un trouter a mis proyectos
-</div>
+  
+    <h2 class="col-12 col-lg-12">
+      juansb.dev@gmail.com
+      <img class="logos-contacto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail">
+    </h2>
+    <h2 class="col-12 col-lg-12">
+      3548601073
+      <img class="logos-contacto" src="https://i0.wp.com/cmesit.com/wp-content/uploads/2018/07/logo-telefono.png?ssl=1" alt="">  
+    </h2>
+    </div>
 </template>
 <style scoped>
     .wraper{
@@ -19,4 +24,11 @@
     color:rgb(25, 109, 81);
     background-color: transparent;
   }
+  h2{
+    padding: 1%;
+  }
+  .logos-contacto{
+    width: 10%;
+  }
+  
 </style>

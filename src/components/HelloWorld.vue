@@ -3,7 +3,8 @@ defineProps({
   msg: {
     type: String,
     required: true
-  }
+  },
+ 
 })
 </script>
 
@@ -21,6 +22,7 @@ defineProps({
     <a target="_blank" class="linked" href="https://github.com/JuanSBdev">
       <img class="in2" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="">
     </a>
+
 
   </div>
 </template>
@@ -40,6 +42,7 @@ defineProps({
 }.in2:hover{
   width: 9%;
 }
+
 .linked {
   text-decoration: none;
   margin-top: 22%;
