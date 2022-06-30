@@ -12,25 +12,12 @@ import { computed } from '@vue/runtime-core'
   <h1>¿Buscando front-end developer Jr?</h1>
 
   <h2> Tecnologías que manejo:</h2>
-    <TheWelcome v-if="paso" class="the" />
+    <TheWelcome class="the" />
 
   </main>
   
 </template>
 <script>
-export default {
-        data() {
-            return {
-                paso: false
-            }
-        },
-
-        mounted() {
-            setTimeout(() => this.paso = true, 1000)
-            
-        }
-    }
-
 
 
 </script>

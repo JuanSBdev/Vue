@@ -4,9 +4,13 @@ import Certificados from "@/components/Certificados.vue";
 <template>
   <div class="about d-flex">
   <p>
-  Soy un Desarrollador front-end en busqueda constante de aprendizaje.
+  Soy un Desarrollador front-end capacitado en Coderhouse y autodidacta. Mas especificamente desarrollo de paginas web, full responsive
+  utilizando las ultimas tecnologías para ello (html5, css3, sass, bootstrap, bootstrapVue, vue3).
+
+   En busqueda constante de aprendizaje.
     En este momento me encuentro perfeccionando mis conocimientos en el framework de JavaScript VUE.
-  En este momento  ACTIVO en la busqueda de un empleo que se adapte para trabajar REMOTO ya sea part o full-time.
+    Aspiro a un trabajo el cual me permita el espacio para seguir formando y capacitandome.
+
   </p>
  </div>
 </template>

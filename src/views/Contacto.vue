@@ -6,7 +6,6 @@ import Contacto from '@/components/historia.vue'
 <template>
 <div class="afuera d-flex row">
     <h1 class="col-8">
-    ¿Te gustó mi perfil?
     </h1>
     <Contacto class="col-12"/>
 </div>

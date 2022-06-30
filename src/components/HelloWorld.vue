@@ -11,18 +11,41 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h2>
-       Front-end Jr. developer
+       Front-end developer Jr.
     </h2>
     <h4>24 años</h4>
-<a  class="linked" href="https://www.linkedin.com/in/jlsb/">LinkedIn</a>
+    <h4>Córdoba, Argentina.</h4>
+    <a  target="_blank" class="linked " href="https://www.linkedin.com/in/jlsb/">
+      <img class="in" src="https://masempresas.cea.es/wp-content/uploads/2018/11/LINKEDIN.png" alt="">
+    </a>
+    <a target="_blank" class="linked" href="https://github.com/JuanSBdev">
+      <img class="in2" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="">
+    </a>
 
   </div>
 </template>
 
 <style scoped>
+.in{
+  margin-top: 2%;
+  width: 10%;
+}
+.in:hover{
+  width: 11%;
+  margin-top: 1%;
+}
+.in2{
+  margin-top: 2%;
+  width: 8%;
+}.in2:hover{
+  width: 9%;
+}
 .linked {
   text-decoration: none;
-  
+  margin-top: 22%;
+}
+.linked:hover{
+  background-color: transparent;
 }
 h1 {
   font-weight: 500;
